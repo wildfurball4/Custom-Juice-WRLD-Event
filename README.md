@@ -3,6 +3,8 @@ WildFurball Presents: THE PARTY NEVER ENDS, A Custom Juice WRLD Event For Fortni
 
 LLJW 999
 
+![Image](https://github.com/wildfurball4/Custom-Juice-WRLD-Event/blob/main/Keyart.png)
+
 ## How To Play
 1. Download [32.11 + UEFN](https://drive.google.com/file/d/1d8kzDnbgU70Xg8Xs0Djcqy5NFUB6E7ax/view?usp=sharing).
 2. Download and Setup [UEFN PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11)
