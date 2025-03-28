@@ -18,3 +18,8 @@ LLJW 999
 - Full Length Custom Event
 - Prepatched exe for 32.11
 - Simple setup and launch
+
+## Credits
+- boredcrow24 - Pie Patches and World Partition Fix
+- tbc-studios - playtesting the event
+- [Fortnite Modding Hub](https://t.co/gaKBfz5OpF) - Misc fixes and help
