@@ -15,4 +15,6 @@ LLJW 999
 7. Wait for the ingame timer to countdown and let the party start!
 
 ## Features
-- 
+- Full Length Custom Event
+- Prepatched exe for 32.11
+- Simple setup and launch
