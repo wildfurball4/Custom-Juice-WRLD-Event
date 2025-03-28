@@ -1,8 +1,6 @@
 # THE PARTY NEVER ENDS
 WildFurball Presents: THE PARTY NEVER ENDS, A Custom Juice WRLD Event For Fortnite 32.11
 
-Made by @wildfurball4
-
 LLJW 999
 
 ## How To Play
