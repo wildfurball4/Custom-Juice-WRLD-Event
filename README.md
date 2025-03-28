@@ -1,6 +1,10 @@
 # Custom Juice WRLD Event
 A Custom Juice WRLD Event For Fortnite 32.11
 
+Made by @wildfurball4
+
+LLJW 999
+
 ## How To Play
 1. Download [32.11 + UEFN](https://drive.google.com/file/d/1d8kzDnbgU70Xg8Xs0Djcqy5NFUB6E7ax/view?usp=sharing).
 2. Download and Setup [UEFN PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11)
@@ -9,3 +13,6 @@ A Custom Juice WRLD Event For Fortnite 32.11
 5. Once the Editor is loaded make sure the Netmode is set to "Standalone" and press the green play button.
 6. Once in the Lobby simply just press F3 to go ingame.
 7. Wait for the ingame timer to countdown and let the party start!
+
+## Features
+- 
