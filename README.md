@@ -8,4 +8,4 @@ A Custom Juice WRLD Event For Fortnite 32.11
 4. Once Uefn Pie is setup and Fiddler and Neonite are running, Launch the "Launch UEFN For Juice WRLD Event.bat" in "FortniteGame/Binaries/Win64"
 5. Once the Editor is loaded make sure the Netmode is set to "Standalone" and press the green play button.
 6. Once in the Lobby simply just press F3 to go ingame.
-7. Wait for the timer to countdown and let the party start!
+7. Wait for the ingame timer to countdown and let the party start!
