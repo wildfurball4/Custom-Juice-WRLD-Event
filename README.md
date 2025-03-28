@@ -1,5 +1,5 @@
 # THE PARTY NEVER ENDS
-A Custom Juice WRLD Event For Fortnite 32.11
+WildFurball Presents: THE PARTY NEVER ENDS, A Custom Juice WRLD Event For Fortnite 32.11
 
 Made by @wildfurball4
 
