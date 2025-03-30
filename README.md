@@ -6,7 +6,7 @@ LLJW 999
 ![Image](https://github.com/wildfurball4/Custom-Juice-WRLD-Event/blob/main/Keyart.png)
 
 ## Information
-- This Event Requires Fortnite Version 32.11 Which Can Be Downloaded [Here]()
+- This Event Requires Fortnite Version 32.11 Which Can Be Downloaded [Here](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view?usp=sharing)
 
 ## How To Play
 1. Download and Setup [UEFN PIE](https://github.com/wildfurball4/UEFN-PIE/tree/32.11)
