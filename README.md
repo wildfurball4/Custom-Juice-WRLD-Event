@@ -9,6 +9,7 @@ LLJW 999
 - This Event Requires Fortnite Version 32.11
 
 # How To Play
+If you don't want to read you can watch a video tutorial [Here](https://youtu.be/j0rJv9azs_4)
 ### Setting Up PIE
 1. Download [32.11 + UEFN](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view?usp=sharing) if you dont already have it.
 2. Download [UEFN-PIE's code](https://github.com/wildfurball4/UEFN-PIE/archive/refs/heads/32.11.zip) and extract it to the same location your Fortnite folder (merging FortniteGame folders).
