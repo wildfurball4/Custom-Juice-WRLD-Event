@@ -14,7 +14,7 @@ If you don't want to read you can watch a video tutorial [Here](https://youtu.be
 1. Download [32.11 + UEFN](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view?usp=sharing) if you dont already have it.
 2. Download [UEFN-PIE's code](https://github.com/wildfurball4/UEFN-PIE/archive/refs/heads/32.11.zip) and extract it to the same location your Fortnite folder (merging FortniteGame folders).
 3. Download [Fiddler Classic](https://www.telerik.com/download/fiddler), once Fiddler is set up copy the contents of FiddlerScript.txt and paste it into the FiddlerScript tab inside Fiddler, go into Tools -> Options -> HTTPS and make sure Capture HTTPS CONNECTs, Decrypt HTTPS traffic, Ignore server certificate errors (unsafe) are all checked, then click Actions and Trust Root Certificate clicking yes when prompted.
-4. Download [Neonite](https://github.com/HybridFNBR/Neonite), and run run.bat.
+4. Download [Neonite](https://github.com/HybridFNBR/Neonite), and run Start Neonite.bat.
     
 ### Downloading The Event
 1. Download [Juice WRLD Event Files](https://github.com/wildfurball4/Custom-Juice-WRLD-Event/releases) and combine it with the FortniteGame folder.
