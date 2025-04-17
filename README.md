@@ -31,6 +31,9 @@ If you don't want to read you can watch a video tutorial [Here](https://youtu.be
 
 ## Credits
 - boredcrow24 - Pie Patches and World Partition Fix
-- tbc-studios - playtesting the event
 - alemanseinvater - STW loader pak
 - [Fortnite Modding Hub](https://t.co/gaKBfz5OpF) - Misc fixes and help
+
+## Playtesters
+- tbc-studios
+- renorivsan
